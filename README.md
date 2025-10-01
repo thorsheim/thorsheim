@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @thorsheim
 - 👀 I’m interested in passwords, pins, and anything you can possibly relate to digital authentication.
 - 🌱 I’m currently learning Github
-- 💞️ I’m looking to collaborate on passwords related stuff - but I'm not a developer who write code.
-- 📫 How to reach me: @thorsheim@mastodon.social & linkedin.com/in/thorsheim
+- 💞️ - 📫 How to reach me: @thorsheim@mastodon.social & linkedin.com/in/thorsheim
