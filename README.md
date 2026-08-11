@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @thorsheim
-- 👀 I’m interested in passwords, pins, and anything you can possibly relate to digital authentication.
-- 🌱 I’m currently learning Github
+- 👀 I’m interested in passwords, pins, and anything you can possibly relate to digital authentication
 - 💞️ - 📫 How to reach me: linkedin.com/in/thorsheim
